@@ -5,7 +5,7 @@ const Features = () => {
     <div>
         <section className="mt-16 ">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 ">
-        <div className="text-center text-4xl font-extrabold tracking-tight text-gray-900 sm:text-2xl md:text-3xl text-blue-200 ">Some Features of this website</div>
+        <div className="text-center text-4xl font-extrabold tracking-tight  sm:text-2xl md:text-3xl text-blue-200 ">Some Features of this website</div>
             {/* Feature 1 */}
           <div className="grid grid-cols-1 gap-8 md:grid-cols-2 my-10">
             
